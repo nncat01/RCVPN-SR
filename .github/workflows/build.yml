@@ -16,9 +16,9 @@ jobs:
       - name: Checkout runetfreedom/geodat2srs
         uses: actions/checkout@v4
         with:
-          repository: runetfreedom/russia-v2ray-rules-dat
+          repository: hydraponique/roscomvpn-geosite
           ref: refs/heads/release
-          path: russia-v2ray-rules-dat
+          path: roscomvpn-geosite
 
       - name: Checkout mobile internet whitelist
         uses: actions/checkout@v4
@@ -29,7 +29,7 @@ jobs:
       - name: Copy source files to dir
         run: |
           mkdir ./singbox-rules
-          cp -r ./russia-v2ray-rules-dat/sing-box/rule-set-geosite/. ./singbox-rules/
+          cp -r ./roscomvpn-geosite/sing-box/. ./singbox-rules/
           ls ./singbox-rules/
 
       # - name: List files in workdir
@@ -105,17 +105,17 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4        
 
-      - name: Checkout runetfreedom/russia-v2ray-rules-dat release
+      - name: Checkout hydraponique/roscomvpn-geoip release
         uses: actions/checkout@v4
         with:
-          repository: runetfreedom/russia-v2ray-rules-dat
+          repository: hydraponique/roscomvpn-geoip
           ref: refs/heads/release
-          path: russia-v2ray-rules-dat
+          path: roscomvpn-geoip
         
       - name: Copy source files to dir
         run: |
           mkdir ./singbox-rules
-          cp -r ./russia-v2ray-rules-dat/sing-box/rule-set-geoip/. ./singbox-rules/
+          cp -r ./roscomvpn-geoip/sing-box/. ./singbox-rules/
           ls ./singbox-rules/
 
       # - name: List files in workdir
