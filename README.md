@@ -6,6 +6,6 @@
 
 В качестве исходных файлов используюься sing-box `srs` файлы из репозитория hydraponique/roscomvpn-routing
 
-Сделано на основе Master-Yoba/shadowrocket-rules
+Сделано на основе парсера от Master-Yoba/shadowrocket-rules
 
 По идее, также совместимо с Surge
