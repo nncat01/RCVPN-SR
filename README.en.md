@@ -1,4 +1,4 @@
-**English** | [**Русский**](https://github.com/Master-Yoba/shadowrocket-rules/blob/main/README.md)
+**English** | [**Русский**](https://github.com/nncat01/RCVPN-SR/blob/main/README.md)
 
 # RCVPN-SR
 
