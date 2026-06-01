@@ -47,10 +47,10 @@ jobs:
 
       - name: install sing-box
         run: |
-          wget https://github.com/SagerNet/sing-box/releases/download/v1.10.7/sing-box-1.10.7-linux-amd64.tar.gz
+          wget https://github.com/SagerNet/sing-box/releases/download/v1.12.12/sing-box-1.12.12-linux-amd64.tar.gz
           mkdir singbox_binary
-          tar -xvzf sing-box-1.10.7-linux-amd64.tar.gz -C singbox_binary --strip-components=1
-          rm sing-box-1.10.7-linux-amd64.tar.gz
+          tar -xvzf sing-box-1.12.12-linux-amd64.tar.gz -C singbox_binary --strip-components=1
+          rm sing-box-1.12.12-linux-amd64.tar.gz
           ./singbox_binary/sing-box -h
         # bash <(curl -fsSL https://sing-box.app/deb-install.sh)        
 
@@ -133,10 +133,10 @@ jobs:
 
       - name: install sing-box
         run: |
-          wget https://github.com/SagerNet/sing-box/releases/download/v1.10.7/sing-box-1.10.7-linux-amd64.tar.gz
+          wget https://github.com/SagerNet/sing-box/releases/download/v1.12.12/sing-box-1.12.12-linux-amd64.tar.gz
           mkdir singbox_binary
-          tar -xvzf sing-box-1.10.7-linux-amd64.tar.gz -C singbox_binary --strip-components=1
-          rm sing-box-1.10.7-linux-amd64.tar.gz
+          tar -xvzf sing-box-1.12.12-linux-amd64.tar.gz -C singbox_binary --strip-components=1
+          rm sing-box-1.12.12-linux-amd64.tar.gz
           ./singbox_binary/sing-box -h
         # bash <(curl -fsSL https://sing-box.app/deb-install.sh)        
 
