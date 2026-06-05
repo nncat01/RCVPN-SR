@@ -10,7 +10,7 @@
 
 По идее, также совместимо с [Surge](https://apps.apple.com/us/app/surge-5/id1442620678)
 #
-Ниже приведены готовые конфигурации, являющиеся адаптацией конфигураций из [hydraponique/roscomvpn-routing](https://github.com/hydraponique/roscomvpn-routing) под Shadowrocket, есливы не ходите заморачиватся с созданием своей
+Ниже приведены готовые конфигурации, являющиеся адаптацией конфигураций из [hydraponique/roscomvpn-routing](https://github.com/hydraponique/roscomvpn-routing) под Shadowrocket, если вы не ходите заморачиватся с созданием своей
 
 | Конфиг | Публичный DNS |
 |-----------|-----------|
