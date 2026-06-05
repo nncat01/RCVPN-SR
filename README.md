@@ -4,7 +4,7 @@
 
 Автоматическая генерация RULE-SET файлов `.list` для Proxy/VPN клиента [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
-В качестве исходных файлов используюься sing-box `srs` файлы из репозитория [hydraponique/roscomvpn-routing](https://github.com/hydraponique/roscomvpn-routing)
+В качестве исходных файлов используются sing-box `srs` файлы из репозитория [hydraponique/roscomvpn-routing](https://github.com/hydraponique/roscomvpn-routing)
 
 Сделано на основе парсера от [Master-Yoba/shadowrocket-rules](https://github.com/Master-Yoba/shadowrocket-rules)
 
