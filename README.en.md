@@ -8,4 +8,4 @@ The source files used are Sing-box .srs files from the  hydraponique/roscomvpn-r
 
 Built based on the parser from  Master-Yoba/shadowrocket-rules￼.
 
-In theory, it should also be compatible with Surge.adowrocket-rules` directory
+In theory, it should also be compatible with Surge
