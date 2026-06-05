@@ -12,7 +12,7 @@
 #
 Ниже приведены готовые конфигурации, являющиеся адаптацией конфигураций из [hydraponique/roscomvpn-routing](https://github.com/hydraponique/roscomvpn-routing) под Shadowrocket, есливы не ходите заморачиватся с созданием своей
 
-| Конфиг маршрутизации | Публичный DNS |
+| Конфиг | Публичный DNS |
 |-----------|-----------|
 | [Default](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/roscomvpn/RU_RCVPN_D_A.conf) | AdGuard DNS + Yandex DNS |
 | [Default](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/roscomvpn/RU_RCVPN_D_C.conf) | Cloudflare DNS + Yandex DNS |
