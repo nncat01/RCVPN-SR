@@ -1,0 +1,9 @@
+# NAME: twitch-ads
+# UPDATED: 2026-09-07 01:28:41
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,ads.twitch.tv
+DOMAIN-SUFFIX,gql.twitch.tv
+DOMAIN-SUFFIX,playlist.ttvnw.net
+DOMAIN-SUFFIX,static-cdn.jtvnw.net
+DOMAIN-SUFFIX,usher.ttvnw.net
